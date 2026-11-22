@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "记得做 · 任务清单",
+  "short_name": "记得做",
+  "description": "记录作业、家务和生活事项，记住截止时间。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#f7f6f2",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
+
